@@ -67,7 +67,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 <div class="col-md-8">
   <table>
 <table class="table table-striped">
-<tr> <td>May 25, 1 pm - 4:30 pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
+<tr> <td>Oct. 27, 1 pm - 4:30 pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
 <a id = "s_lc_event_7732968" href="https://uark.libcal.com/event/8296890">Introduction to Python Pt. 2 </a>
 <!-- Below is optional element styling  //-->
   <style>
@@ -85,7 +85,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 }
 </style>
 </td> </tr>
-      <tr> <td>May 27, 1 pm - 4:30pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
+      <tr> <td>Oct. 29, 1 pm - 4:30pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
 <a id="s_lc_event_7732976" href="https://uark.libcal.com/event/8296891">Introduction to Python Pt. 2 </a>
 <!-- Below is optional element styling  //-->
 <style>
@@ -197,7 +197,7 @@ address.
 </p>
 {% endif %}
 
-<p><strong> Date:</strong>  May 25, 27 or June 1</p>
+<p><strong> Date:</strong>  October 27 or 29, 2021</p>
 
 {% comment %}
 SPECIAL REQUIREMENTS
