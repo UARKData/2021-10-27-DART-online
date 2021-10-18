@@ -9,12 +9,12 @@ country: "us"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
 latitude: "45"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-1"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "October 27 or 29, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Nov 3 or Nov 5, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "1:00-4:30pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2021-10-27     # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2021-10-29       # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2021-11-03    # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2021-11-05      # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Lora Lennertz"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Michael Gibbs","Martha Parker"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Mary Leverance","Stephanie Pierce"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["datalib@uark.edu","lennertz@uark.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/May-UARK-Carpentries # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -67,7 +67,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 <div class="col-md-8">
   <table>
 <table class="table table-striped">
-<tr> <td>Oct. 27, 1 pm - 4:30 pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
+<tr> <td>Nov. 3, 1 pm - 4:30 pm</td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627923" matches with the above code: jQuery("#s_lc_event_7627923")  //-->
 <a id = "s_lc_event_7732968" href="https://uark.libcal.com/event/8296890">Introduction to Python Pt. 2 </a>
 <!-- Below is optional element styling  //-->
   <style>
@@ -85,7 +85,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 }
 </style>
 </td> </tr>
-      <tr> <td>Oct. 29, 1 pm - 4:30pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
+      <tr> <td>Nov. 5, 1 pm - 4:30pm </td>  <td><!-- Place the following link anywhere in your page. Make sure the id "s_lc_event_7627930" matches with the above code: jQuery("#s_lc_event_7627930")  //-->
 <a id="s_lc_event_7732976" href="https://uark.libcal.com/event/8296891">Introduction to Python Pt. 2 </a>
 <!-- Below is optional element styling  //-->
 <style>
